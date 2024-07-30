@@ -1,0 +1,3 @@
+[submodule "ArcadiaGenesisCore/picodrive"]
+	path = ArcadiaGenesisCore/picodrive
+	url = https://github.com/libretro/picodrive.git
